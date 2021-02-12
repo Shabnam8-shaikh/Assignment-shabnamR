@@ -3,7 +3,7 @@
     "path": "D:/SHABNAM/DATA ANALYTICS(ExcelR)/Basics of R/Assi_With_R.R",
     "project_path": null,
     "type": "r_source",
-    "hash": "640237449",
+    "hash": "3084013509",
     "contents": "",
     "dirty": false,
     "created": 1613116233318.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "8,0",
+        "cursorPosition": "9,28",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1613116510,
+    "lastKnownWriteTime": 1613116648,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1613116510355,
+    "last_content_update": 1613116648295,
     "read_only": false,
     "read_only_alternatives": []
 }

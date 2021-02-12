@@ -6,3 +6,10 @@ data("mtcars")
 glimpse(mtcars)
 
 # Commit - 'Load libraries and load data'
+
+mtcars_summary <- mtcars %>%
+  group_by(cyl) %>% 
+  summarise(mean_displ = mean(disp), 
+            mean_hp = mean(hp))
+
+# Commit - 'summarize disp and hp by cyl'
