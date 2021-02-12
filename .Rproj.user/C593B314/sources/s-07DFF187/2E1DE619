@@ -1,11 +1,11 @@
 {
     "id": "2E1DE619",
-    "path": null,
+    "path": "D:/SHABNAM/DATA ANALYTICS(ExcelR)/Basics of R/Assi_With_R.R",
     "project_path": null,
     "type": "r_source",
-    "hash": "0",
+    "hash": "4284831004",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1613116233318.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -15,11 +15,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1613116191,
-    "encoding": "",
+    "lastKnownWriteTime": 1613116399,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1613116289611,
+    "last_content_update": 1613116399839,
     "read_only": false,
     "read_only_alternatives": []
 }
