@@ -13,3 +13,8 @@ mtcars_summary <- mtcars %>%
             mean_hp = mean(hp))
 
 # Commit - 'summarize disp and hp by cyl'
+
+ggplot(mtcars, aes(x = disp, y = hp, colour = cyl)) + 
+  geom_point()
+
+# Commit - 'Sometimes a graph is more informative than a table'
